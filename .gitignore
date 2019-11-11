@@ -1,7 +1,8 @@
 /node_modules
 /.vscode
 
-tmp/uploads/*
+tmp/uploads/*.png
+tmp/uploads/*.jpg
 
 .env
 package-lock.json
