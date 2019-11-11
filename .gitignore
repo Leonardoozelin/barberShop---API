@@ -1,8 +1,8 @@
 /node_modules
 /.vscode
 
-tmp/uploads/*.png
-tmp/uploads/*.jpg
-
 .env
 package-lock.json
+
+/temp/uploads/*
+!temp/uploads/.gitkeep
