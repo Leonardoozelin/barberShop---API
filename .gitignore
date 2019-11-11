@@ -2,7 +2,7 @@
 /.vscode
 
 /tmp/uploads/*
-!tmp/uploads/.gitkeep
+# !tmp/uploads/.gitkeep
 
 .env
 package-lock.json
