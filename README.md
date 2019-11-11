@@ -2,7 +2,6 @@
 # API projeto BarberShop
 
 Projeto com propósito para criação de uma API genérica para aplicativos de reserva de Barbearia e Salões de Beleza
- 
 
 ## Tecnologias Usadas
 - NodeJs 10.16.2
@@ -12,7 +11,6 @@ Projeto com propósito para criação de uma API genérica para aplicativos de r
 - MongoDB
 - Redis
  
-
 ## Guia de Instalação
 
 - Faça o clone do prjeto
@@ -28,4 +26,5 @@ Projeto com propósito para criação de uma API genérica para aplicativos de r
 - Inicie o projeto usando 2 terminais usando os comandos
 
 > npm run dev ou yarn dev
+
 > npm run queue ou yarn queue
